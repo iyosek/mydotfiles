@@ -17,4 +17,6 @@ int main() {
 	putchar('\n');
 	puts("--------------");
 	puts("yeah-yeah-yeah");
+
+	return 0;
 }
