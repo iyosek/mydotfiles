@@ -1,1 +1,1 @@
-let delimitMate_matchpairs = "(:),[:],{:},<:>"
+" let delimitMate_matchpairs = "(:),[:],{:},<:>"
