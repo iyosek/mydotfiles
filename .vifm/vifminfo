@@ -1,0 +1,673 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Bookmarks:
+'H
+	/home/another/
+	../
+1511838797
+'b
+	/home/another/bin/
+	../
+1511838797
+'h
+	/home/another/
+	../
+1511838797
+'z
+	/home/another/.vifm
+	../
+1511838797
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/media/hdd/D/Ubuntu Notes/Vim
+	snippet/
+11
+d/media/hdd/D/Ubuntu Notes/Vim/snippet
+	ch.vim
+1
+d/media/hdd/D/Ubuntu Notes/Vim
+	tmux/
+12
+d/media/hdd/D/Ubuntu Notes/Vim/tmux
+	../
+0
+d/media/hdd/D/Ubuntu Notes/Vim
+	mydotfiles/
+10
+d/media/hdd/D/Ubuntu Notes/Vim/mydotfiles
+	.git/
+1
+d/media/hdd/D/Ubuntu Notes/Vim/mydotfiles/.git
+	description
+10
+d/media/hdd/D/Ubuntu Notes/Vim/mydotfiles
+	.vimrc
+2
+d/media/hdd/D/Ubuntu Notes/Vim
+	mydotfiles/
+10
+d/media/hdd/D/Ubuntu Notes/Vim/mydotfiles
+	.vimrc
+2
+d/media/hdd/D/Ubuntu Notes/Vim
+	tmux/
+10
+d/media/hdd/D/Ubuntu Notes/Vim/tmux
+	mydotfiles/
+1
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles
+	.git/
+1
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles/.git
+	branches/
+1
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles/.git/branches
+	../
+0
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles/.git
+	hooks/
+2
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles
+	.git/
+1
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles/.git
+	objects/
+5
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles/.git/objects
+	00/
+1
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles/.git/objects/00
+	../
+0
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles/.git/objects
+	00/
+1
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles/.git
+	objects/
+5
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles
+	tmux01.conf
+3
+d/media/hdd/D/Ubuntu Notes/Vim/tmux
+	mydotfiles/
+1
+d/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles
+	tmux03.conf
+5
+d/media/hdd/D/Ubuntu Notes/Vim/tmux
+	tmux03.conf
+9
+d/media/hdd/D/Ubuntu Notes/Vim
+	Pic/
+4
+d/media/hdd/D/Ubuntu Notes/Vim/Pic
+	Screenshot.png
+2
+d/media/hdd/D/Ubuntu Notes/Vim
+	Pic/
+4
+d/media/hdd/D/Ubuntu Notes
+	Arch Linux/
+3
+d/media/hdd/D/Ubuntu Notes/Arch Linux
+	dokumen.tips_panduan-archlinux-untuk-pemula.pdf
+1
+d/media/hdd/D/Ubuntu Notes
+	Freeze/
+9
+d/media/hdd/D/Ubuntu Notes/Freeze
+	[ubuntu] How to shutdown_restart a frozen screen_.pdf
+1
+d/media/hdd/D/Ubuntu Notes
+	Fullscreen/
+11
+d/media/hdd/D/Ubuntu Notes/Fullscreen
+	mozilla.pdf
+1
+d/media/hdd/D/Ubuntu Notes
+	Fresh Player/
+10
+d/media/hdd/D/Ubuntu Notes/Fresh Player
+	fresh player.pdf
+1
+d/media/hdd/D/Ubuntu Notes
+	Browser/
+5
+d/media/hdd/D/Ubuntu Notes/Browser
+	lawas/
+2
+d/media/hdd/D/Ubuntu Notes
+	Bash/
+4
+d/media/hdd/D/Ubuntu Notes/Bash
+	code-Color
+6
+d/media/hdd/D/Ubuntu Notes
+	Prozilla/
+14
+d/media/hdd/D/Ubuntu Notes/Prozilla
+	../
+0
+d/media/hdd/D/Ubuntu Notes
+	GPG: error/
+8
+d/media/hdd/D
+	Ubuntu Notes/
+4
+d/media/hdd
+	E/
+7
+d/media/hdd/E
+	Joke/
+15
+d/media/hdd
+	E/
+7
+d/media
+	hdd/
+2
+d/media/hdd
+	D/
+6
+d/media/hdd/D
+	Ubuntu Notes/
+4
+d/media/hdd/D/Ubuntu Notes
+	Vim/
+29
+d/media/hdd/D/Ubuntu Notes/Vim
+	Old Vimrc/
+3
+d/media/hdd/D/Ubuntu Notes/Vim/Old Vimrc
+	Fresh/
+2
+d/media/hdd/D/Ubuntu Notes/Vim/Old Vimrc/Fresh
+	02.vimrc
+2
+d/media/hdd/D/Ubuntu Notes/Vim/Old Vimrc
+	Fresh/
+2
+d/media/hdd/D/Ubuntu Notes/Vim
+	Old Vimrc/
+3
+d/media/hdd/D/Ubuntu Notes
+	Vim/
+29
+d/media/hdd/D
+	Free Ebooks/
+2
+d/media/hdd
+	A/
+3
+d/media/hdd/A
+	Clips/
+1
+d/media/hdd/A/Clips
+	Acoustic Live/
+1
+d/media/hdd/A
+	This moment/
+5
+d/media/hdd/A/This moment
+	lady antebellum/
+3
+d/media/hdd/A/This moment/lady antebellum
+	../
+0
+d/media/hdd/A/This moment
+	lady antebellum/
+3
+d/media/hdd/A
+	Records/
+4
+d/media/hdd
+	D/
+6
+d/media/hdd/D
+	Ubuntu Notes/
+4
+d/media/hdd/D/Ubuntu Notes
+	Vim/
+15
+d/media/hdd/D/Ubuntu Notes/Vim
+	Documents/
+2
+d/media/hdd/D/Ubuntu Notes/Vim/Documents
+	../
+0
+d/media/hdd/D/Ubuntu Notes/Vim
+	Documents/
+2
+d/media/hdd/D/Ubuntu Notes/Vim/Documents
+	Mysql/
+2
+d/media/hdd/D/Ubuntu Notes/Vim/Documents/Mysql
+	../
+0
+d/media/hdd/D/Ubuntu Notes/Vim/Documents
+	../
+0
+d/media/hdd/D/Ubuntu Notes/Vim
+	../
+0
+d/media/hdd/D/Ubuntu Notes
+	../
+0
+d/media/hdd/D
+	../
+0
+d/media/hdd
+	../
+0
+d/media
+	another/
+1
+d/media/another
+	../
+0
+d/media
+	another/
+1
+d/media/another
+	../
+0
+d/media
+	../
+0
+d/
+	home/
+5
+d/home
+	another/
+1
+d/home/another
+	Documents/
+27
+d/home/another/Documents
+	Shell/
+19
+d/home/another/Documents/Shell
+	Traversy/
+1
+d/home/another/Documents/Shell/Traversy
+	hello/
+1
+d/home/another/Documents/Shell/Traversy/hello
+	../
+0
+d/home/another/Documents/Shell/Traversy
+	../
+0
+d/home/another/Documents/Shell
+	Traversy/
+1
+d/home/another/Documents/Shell/Traversy
+	../
+0
+d/home/another/Documents/Shell
+	Traversy/
+1
+d/home/another/Documents
+	Typescript/
+20
+d/home/another/Documents/Typescript
+	greeter.ts
+3
+d/home/another/Documents
+	Typescript/
+20
+d/home/another
+	.tmux/
+10
+d
+
+# Right window history (oldest to newest):
+D/home/another
+	Desktop/
+1
+D/home
+	../
+0
+D/
+	media/
+9
+D/media
+	hdd/
+2
+D/media/hdd
+	House/
+7
+D/media/hdd/House
+	Down/
+2
+D/media/hdd/House/Down
+	jason-bourne_indonesian-1447624/
+2
+D/media/hdd/House
+	Down/
+2
+D/media/hdd
+	A/
+2
+D/media/hdd/A
+	Tutorial/
+6
+D/media/hdd/A/Tutorial
+	Linux/
+7
+D/media/hdd/A/Tutorial/Linux
+	Bash/
+1
+D/media/hdd/A/Tutorial/Linux/Bash
+	../
+0
+D/media/hdd/A/Tutorial/Linux
+	DOS/
+2
+D/media/hdd/A/Tutorial/Linux/DOS
+	../
+0
+D/media/hdd/A/Tutorial/Linux
+	Deb/
+3
+D/media/hdd/A/Tutorial/Linux/Deb
+	../
+0
+D/media/hdd/A/Tutorial/Linux
+	Git/
+4
+D/media/hdd/A/Tutorial/Linux/Git
+	../
+0
+D/media/hdd/A/Tutorial/Linux
+	Package/
+5
+D/media/hdd/A/Tutorial/Linux/Package
+	Dictionary/
+2
+D/media/hdd/A/Tutorial/Linux/Package/Dictionary
+	Offline Dictionary and Thesaurus in Ubuntu (How-to-install)-ATWll985U8Q.mp4
+1
+D/media/hdd/A/Tutorial/Linux/Package
+	Dictionary/
+2
+D/media/hdd/A/Tutorial/Linux
+	Package/
+5
+D/media/hdd/A/Tutorial
+	How to Play 2048_ Tips and Win Record.mp4
+11
+D/media/hdd/A
+	Tutorial/
+6
+D/media/hdd
+	A/
+2
+D/media
+	another/
+1
+D/media/another
+	../
+0
+D/media
+	hdd/
+2
+D/media/hdd
+	System Volume Information/
+8
+D/media
+	another/
+1
+D/
+	media/
+9
+D/media
+	another/
+1
+D/media/another
+	../
+0
+D/media
+	hdd/
+2
+D/media/hdd
+	A/
+2
+D/media/hdd/A
+	Tutorial/
+6
+D/media/hdd/A/Tutorial
+	Linux/
+7
+D/media/hdd/A/Tutorial/Linux
+	Vim/
+7
+D/media/hdd/A/Tutorial/Linux/Vim
+	tips/
+5
+D/media/hdd/A/Tutorial/Linux/Vim/tips
+	vim tips 9 - find grep-Ry8s6XPmmuQ.mp4
+14
+D/media/hdd/A/Tutorial/Linux/Vim
+	tips/
+5
+D/media/hdd/A/Tutorial/Linux
+	Vim/
+7
+D/media/hdd/A/Tutorial
+	Linux/
+7
+D/media/hdd/A
+	Tutorial/
+6
+D/media/hdd
+	A/
+2
+D/media
+	hdd/
+2
+D/
+	usr/
+16
+D/usr
+	share/
+7
+D/usr/share
+	backgrounds/
+11
+D/usr/share/backgrounds
+	01.svg
+1
+D/usr/share
+	backgrounds/
+11
+D/usr
+	share/
+7
+D/
+	home/
+5
+D/home
+	../
+0
+D/
+	home/
+5
+D/home
+	another/
+1
+D/home/another
+	Documents/
+15
+D/home
+	another/
+1
+D/home/another
+	Documents/
+2
+D/home/another/Documents
+	Html/
+6
+D/home/another/Documents/Html
+	absolute/
+1
+D/home/another/Documents/Html/absolute
+	../
+0
+D/home/another/Documents/Html
+	absolute/
+1
+D/home/another/Documents/Html/absolute
+	fund_css/
+1
+D/home/another/Documents/Html/absolute/fund_css
+	css_cheat/
+1
+D/home/another/Documents/Html/absolute/fund_css/css_cheat
+	index.html
+2
+D/home/another/Documents/Html/absolute/fund_css
+	css_cheat/
+1
+D/home/another/Documents/Html/absolute
+	fund_css/
+1
+D/home/another/Documents/Html
+	absolute/
+1
+D/home/another/Documents
+	Html/
+6
+D/home/another
+	Documents/
+6
+D/home/another/Documents
+	Html/
+6
+D/home/another/Documents/Html
+	Traversy/
+1
+D/home/another/Documents/Html/Traversy
+	absolute/
+1
+D/home/another/Documents/Html/Traversy/absolute
+	fund_css/
+1
+D/home/another/Documents/Html/Traversy/absolute/fund_css
+	css_cheat/
+1
+D/home/another/Documents/Html/Traversy/absolute/fund_css/css_cheat
+	css/
+1
+D/home/another/Documents/Html/Traversy/absolute/fund_css/css_cheat/css
+	../
+0
+D/home/another/Documents/Html/Traversy/absolute/fund_css/css_cheat
+	css/
+1
+D/home/another/Documents/Html/Traversy/absolute/fund_css
+	css_cheat/
+1
+D/home/another/Documents/Html/Traversy/absolute
+	fund_css/
+2
+D/home/another/Documents/Html/Traversy
+	absolute/
+1
+D/home/another/Documents/Html
+	Traversy/
+1
+D/home/another/Documents
+	Html/
+6
+D/home/another
+	Documents/
+6
+D/home
+	another/
+1
+D/
+	home/
+5
+D/home
+	another/
+1
+D/home/another
+	../
+0
+D/home
+	another/
+1
+D/home/another
+	Documents/
+11
+D/home/another/Documents
+	C/
+2
+D/home/another/Documents/C
+	ctry/
+13
+D/home/another/Documents/C/ctry
+	ctry4/
+4
+D/home/another/Documents/C/ctry/ctry4
+	array_return
+7
+D
+
+# Command line history (oldest to newest):
+:rename 01.vimrc
+:rename .vimrc 03.vimrc
+:rename .vimrc
+:rename 03.vimrc
+:rename tmux03.conf
+:rename vifm
+:rename 04.vimrc
+:pwd
+:openwith vlc
+:mkdir Mysql
+:H
+:hide
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+pzed
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/another/.vifm/Trash/000_mysql.cnf
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/another/.vifm/Trash/000_.vifm
+	/media/hdd/D/Ubuntu Notes/Vim/.vifm
+t/home/another/.vifm/Trash/000_.git
+	/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles/.git
+t/home/another/.vifm/Trash/000_.vimrc
+	/media/hdd/D/Ubuntu Notes/Vim/tmux/mydotfiles/.vimrc
+t/home/another/.vifm/Trash/000_mysql.cnf
+	/media/hdd/D/Ubuntu Notes/Vim/mysql.cnf
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0

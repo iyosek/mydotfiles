@@ -1,0 +1,643 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Bookmarks:
+'H
+	/home/house/
+	../
+1511619083
+'b
+	/home/house/bin/
+	../
+1511619083
+'h
+	/home/house/
+	../
+1511619083
+'z
+	/home/house/.vifm
+	../
+1511619083
+
+# TUI:
+ar
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/house/Music/Ruby
+	launchschool/
+3
+d/home/house/Music/Ruby/launchschool
+	basic/
+2
+d/home/house/Music/Ruby/launchschool/basic
+	countdown.rb
+13
+d/home/house
+	Desktop/
+1
+d/home/house/Desktop
+	../
+0
+d/home/house
+	Downloads/
+3
+d/home/house/Downloads
+	../
+0
+d/home/house
+	Downloads/
+3
+d/home
+	house/
+1
+d/
+	home/
+5
+d/home
+	house/
+1
+d/home/house
+	until.rb
+11
+d/home
+	house/
+1
+d/
+	media/
+9
+d/media
+	hdd/
+1
+d/media/hdd
+	E/
+6
+d/media/hdd/E
+	Gif/
+12
+d/media/hdd
+	E/
+6
+d/media/hdd/E
+	../
+0
+d/media/hdd
+	GREG/
+7
+d/media/hdd/GREG
+	Fargo 2/
+3
+d/media/hdd/GREG/Fargo 2
+	06.mp4
+6
+d/media/hdd/GREG
+	Fargo 2/
+3
+d/media/hdd
+	A/
+2
+d/media
+	hdd/
+1
+d/
+	home/
+5
+d/home
+	house/
+1
+d/home/house
+	Music/
+4
+d/home/house/Music
+	Y_Minutes/
+16
+d/home/house
+	Music/
+4
+d/home
+	house/
+1
+d/home/house
+	Music/
+4
+d/home
+	house/
+1
+d/
+	media/
+9
+d/media
+	hdd/
+1
+d/media/hdd
+	GREG/
+7
+d/media/hdd/GREG
+	Down/
+2
+d/media/hdd/GREG/Down
+	vifm-v0.8.2-builtin-normal.pdf
+5
+d/media/hdd/GREG
+	Down/
+2
+d/media/hdd
+	GREG/
+7
+d/media/hdd/GREG
+	Fargo 2/
+3
+d/media/hdd/GREG/Fargo 2
+	06.mp4
+6
+d/media/hdd/GREG
+	Fargo 2/
+3
+d/media/hdd/GREG/Fargo 2
+	06.mp4
+6
+d/media/hdd/GREG
+	Videos/
+4
+d/media/hdd/GREG/Videos
+	Ser Arthur Dayne - Game of Thrones-y_CkkREzCQw.mp4
+8
+d/media/hdd/GREG
+	Videos/
+4
+d/media/hdd
+	GREG/
+7
+d/media/hdd/GREG
+	Down/
+2
+d/media/hdd/GREG/Down
+	jason-bourne_indonesian-1447624.zip
+4
+d/media/hdd/GREG
+	Videos/
+4
+d/media/hdd
+	GREG/
+7
+d/media/hdd/GREG
+	Down/
+2
+d/media/hdd/GREG/Down
+	P05-Statements-Proofs.pdf
+3
+d/media/hdd/GREG
+	Down/
+2
+d/media/hdd/GREG/Down
+	P05-Statements-Proofs.pdf
+3
+d/media/hdd/GREG
+	Fargo 2/
+3
+d/media/hdd/GREG/Fargo 2
+	04.mp4
+4
+d/media/hdd/GREG
+	Fargo 2/
+3
+d/media/hdd
+	GREG/
+7
+d/media/hdd/GREG
+	Docs/
+1
+d/media/hdd/GREG/Docs
+	../
+0
+d/media/hdd/GREG
+	Down/
+2
+d/media/hdd/GREG/Down
+	House M.D/
+1
+d/media/hdd/GREG
+	Down/
+2
+d/media/hdd
+	D/
+5
+d/media/hdd/D
+	Cheat Sheet/
+1
+d/media/hdd/D/Cheat Sheet
+	Terminal/
+10
+d/media/hdd/D/Cheat Sheet/Terminal
+	../
+0
+d/media/hdd/D/Cheat Sheet
+	HTML/
+7
+d/media/hdd/D/Cheat Sheet/HTML
+	htmlcheatsheet.pdf
+1
+d/media/hdd/D/Cheat Sheet
+	ASCII/
+1
+d/media/hdd/D
+	Cheat Sheet/
+1
+d/media/hdd
+	E/
+6
+d/media/hdd/E
+	alternative.jpg
+33
+d/media/hdd
+	GREG/
+7
+d/media/hdd/GREG
+	Fargo 2/
+3
+d/media/hdd/GREG/Fargo 2
+	06.mp4
+6
+d/media/hdd/GREG
+	Videos/
+4
+d/media/hdd/GREG/Videos
+	math_anxiety.mp4
+10
+d/media/hdd/GREG
+	Videos/
+4
+d/media/hdd
+	GREG/
+7
+d/media
+	hdd/
+1
+d/
+	home/
+5
+d/home
+	house/
+1
+d/home/house
+	Pictures/
+5
+d/home/house/Pictures
+	../
+0
+d/home/house
+	Music/
+4
+d/home/house/Music
+	Javascript/
+8
+d/home/house/Music/Javascript
+	mutate2.rb
+1
+d/home/house/Music
+	Javascript/
+8
+d/home/house
+	Music/
+4
+d/home/house/Music
+	SQL/
+14
+d/home/house/Music/SQL
+	Latihan.sql
+1
+d/home/house/Music
+	SQL/
+14
+d/home/house
+	Downloads/
+3
+d/home
+	house/
+1
+d/
+	usr/
+16
+d/usr
+	bin/
+1
+d/usr/bin
+	X11/
+1
+d
+
+# Right window history (oldest to newest):
+D/home/house
+	Public/
+6
+D/home
+	house/
+1
+D/
+	media/
+9
+D/media
+	hdd/
+1
+D/media/hdd
+	D/
+5
+D/media/hdd/D
+	Ubuntu Notes/
+4
+D/media/hdd/D/Ubuntu Notes
+	../
+0
+D/media/hdd/D
+	Cheat Sheet/
+1
+D/media/hdd/D/Cheat Sheet
+	ranger.pdf
+17
+D/media/hdd/D
+	Cheat Sheet/
+1
+D/media/hdd
+	B/
+3
+D/media/hdd/B
+	Alan Walker/
+1
+D/media/hdd/B/Alan Walker
+	Alan Walker & Marshmello Style _ Arc North - Never (Music Video)-H0T-cuT5LR0.m4a
+2
+D/media/hdd/B
+	desktop.ini
+10
+D/media/hdd
+	E/
+6
+D/media/hdd/E
+	Wallpapers fav/
+1
+D/media/hdd/E/ Wallpapers fav
+	08.jpg
+5
+D/media/hdd/E
+	Wallpapers fav/
+1
+D/media/hdd
+	E/
+6
+D/media
+	hdd/
+1
+D/
+	home/
+5
+D/home
+	house/
+1
+D/home/house
+	Templates/
+7
+D/home/house/Templates
+	Clean Up
+1
+D/home/house
+	Music/
+4
+D/home/house/Music
+	Ruby/
+13
+D/home/house/Music/Ruby
+	launchschool/
+3
+D/home/house/Music/Ruby/launchschool
+	basic/
+2
+D/home/house/Music/Ruby/launchschool/basic
+	variable.rb
+37
+D/home/house/Music/Ruby/launchschool
+	basic/
+2
+D/home/house/Music/Ruby
+	launchschool/
+3
+D/home/house/Music
+	Python/
+12
+D/home/house/Music/Python
+	../
+0
+D/home/house/Music
+	../
+0
+D/home/house
+	Music/
+4
+D/home
+	house/
+1
+D/
+	bin/
+0
+D/bin
+	../
+0
+D/
+	home/
+5
+D/home
+	house/
+1
+D/home/house
+	Documents/
+2
+D/home/house/Documents
+	mydotfiles/
+2
+D/home/house/Documents/mydotfiles
+	ruby.vim
+16
+D/home/house/Documents
+	mydotfiles/
+2
+D/home/house
+	Music/
+4
+D/home/house/Music
+	../
+0
+D/home/house
+	Music/
+4
+D/home/house/Music
+	../
+0
+D/home/house
+	Music/
+4
+D/home/house/Music
+	Python/
+12
+D/home/house
+	Music/
+4
+D/home
+	house/
+1
+D/
+	media/
+9
+D/media
+	hdd/
+1
+D/media/hdd
+	D/
+5
+D/media/hdd/D
+	Free Ebooks/
+2
+D/media/hdd/D/Free Ebooks
+	ThinkLike(free)/
+12
+D/media/hdd/D/Free Ebooks/ThinkLike(free)
+	thinkos.pdf
+5
+D/media/hdd/D/Free Ebooks
+	Packtpub/
+10
+D/media/hdd/D/Free Ebooks/Packtpub
+	Rasbery PI/
+26
+D/media/hdd/D/Free Ebooks
+	Packtpub/
+10
+D/media/hdd/D
+	Free Ebooks/
+2
+D/media/hdd
+	B/
+3
+D/media/hdd/B
+	SoundTrack/
+9
+D/media/hdd/B/SoundTrack
+	Collateral/
+1
+D/media/hdd/B/SoundTrack/Collateral
+	Collateral Soundtrack - Shadow on the Sun.mp3
+11
+D/media/hdd/B/SoundTrack
+	Good Will Hunting - soundtrack/
+3
+D/media/hdd/B
+	SoundTrack/
+9
+D/media/hdd
+	B/
+3
+D/media/hdd/B
+	SoundList/
+8
+D/media/hdd/B/SoundList
+	20 Lagu Barat Paling Enak Didengar - Lagu Barat Te.mp3
+1
+D/media/hdd/B
+	Indonesia/
+4
+D/media/hdd/B/Indonesia
+	Gigi/
+11
+D/media/hdd/B/Indonesia/Gigi
+	Gigi - Peace, Love, 'N Respect/
+1
+D/media/hdd/B/Indonesia/Gigi/Gigi - Peace, Love, 'N Respect
+	gigi -  melayang (versi akustik).mp3
+12
+D/media/hdd/B/Indonesia/Gigi
+	Gigi - Peace, Love, 'N Respect/
+1
+D/media/hdd/B/Indonesia
+	Gigi/
+11
+D/media/hdd/B
+	Indonesia/
+4
+D/media/hdd
+	A/
+2
+D/media/hdd/A
+	This moment/
+5
+D/media/hdd/A/This moment
+	Robbie Williams - Feel.mp4
+10
+D/media/hdd/A
+	Tutorial/
+6
+D/media/hdd/A/Tutorial
+	[2048] Three Simple Tricks to Win 2048 Tile Puzzle.mp4
+13
+D/media/hdd/A
+	This moment/
+5
+D/media/hdd/A/This moment
+	Robbie Williams - No Regrets.mp4
+11
+D/media/hdd/A
+	This moment/
+5
+D/media/hdd
+	E/
+6
+D/media/hdd/E
+	../
+0
+D/media/hdd
+	D/
+5
+D/media/hdd/D
+	Ubuntu Notes/
+4
+D/media/hdd/D/Ubuntu Notes
+	Remove PPA
+34
+D
+
+# Command line history (oldest to newest):
+:edit
+:q
+
+# Search history (oldest to newest):
+/do
+/e
+/count
+/until
+/told
+/libtidy
+/remove
+
+# Prompt history (oldest to newest):
+pq
+ptest.js
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
